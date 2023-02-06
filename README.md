@@ -15,7 +15,7 @@ The results of the statistically significant  association (adjusted p-value<0.05
 | --- | Standard Deviation (first-order) | negative | 0.006915 |
 | --- | Entropy (first-order) | negative | 0.003634|
 | --- | Uniformity (first-order) | positive | 0.004761 |
-| --- | Mean Absolute Deviation (first-order)| 0.005353 | --- |
+| --- | Mean Absolute Deviation (first-order)| negative | 0.005353 |
 | --- | Standard Deviation (Wavelet transform Approximate Component) | negative | 0.016455 |
 | --- | Entropy (Wavelet transform Horizontal Component) | negative | 0.040929 |
 | --- | Mean Absolute Deviation (Wavelet transform Approximate Component) | negative | 0.152177- |
