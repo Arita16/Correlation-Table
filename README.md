@@ -18,7 +18,7 @@ The results of the statistically significant  association (adjusted p-value<0.05
 | --- | Mean Absolute Deviation (first-order)| negative | 0.005353 |
 | --- | Standard Deviation (Wavelet transform Approximate Component) | negative | 0.016455 |
 | --- | Entropy (Wavelet transform Horizontal Component) | negative | 0.040929 |
-| --- | Mean Absolute Deviation (Wavelet transform Approximate Component) | negative | 0.152177- |
+| --- | Mean Absolute Deviation (Wavelet transform Approximate Component) | negative | 0.152177 |
 | --- | Mean Absolute Deviation (Wavelet transform Horizontal Component) | negative | 0.047507 |
 | IQSEC3 | Median (Wavelet transform Horizontal Component) | positive | 0.021949 |
 | LRRC50 | Median (Wavelet transform Vertical Component) | positive | 0.027327 |
