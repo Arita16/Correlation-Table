@@ -5,7 +5,7 @@ This repository shows the spearman rank correlation analysis related to the pape
 
 The results of the statistically significant  association (adjusted p-value<0.05) between pathomic and imaging features are given in the table below:
 
-| Genes | Pathomic features | Association | p-value |
+| Genes | Pathomic features | Association | Adjusted p-value |
 | --- | --- | --- | --- |
 | ALDH1L1 | Correlation | negative | 0.010922 |
 | --- | Information Measure of Correlation II | negative | 0.007368 |
