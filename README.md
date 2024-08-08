@@ -1,7 +1,9 @@
 
 ## Identification and Analysis of Imaging-Genomic Signatures to Study Recurrence in Breast Cancers
 
-This repository shows the spearman rank correlation analysis related to the paper titled *"Identification and Analysis of Imaging-Genomic Signatures to Study Recurrence in Breast Cancers"*
+This repository shows the spearman rank correlation analysis related to the paper titled *"Identification and Analysis of Imaging-Genomic Signatures to Study Recurrence in Breast Cancers"* [DOI: 10.1109/EMBC40787.2023.10339965](https://ieeexplore.ieee.org/document/10339965)
+
+
 
 The results of the statistically significant  association (adjusted p-value<0.05) between pathomic and imaging features are given in the table below:
 
